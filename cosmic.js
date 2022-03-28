@@ -1,4 +1,3 @@
-// Provides a simple 3D vector class. Vector operations can be done using member functions, which return new vectors, or static functions, which reuse existing vectors to avoid generating garbage.
 // original code by https://evanw.github.io/lightgl.js/docs/vector.html
 (function() {
   
