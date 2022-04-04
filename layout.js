@@ -1,7 +1,7 @@
 import {ArtCanvas} from './artCanvas.js';
 
 const canvas5 = new ArtCanvas({
-    containerID: 'containerB',
+    containerID: 'containerA',
     mode: 'multi',
     perspectiveStart: 'left',
     mouseMove: true,
